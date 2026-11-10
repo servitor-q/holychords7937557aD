@@ -1,0 +1,15 @@
+{
+  "name": "HolyChords",
+  "short_name": "HolyChords",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090C12",
+  "theme_color": "#090C12",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='bg' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%2317376E'/%3E%3Cstop offset='55%25' stop-color='%230B1B3D'/%3E%3Cstop offset='100%25' stop-color='%23050C1D'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100' height='100' rx='24' fill='url(%23bg)'/%3E%3Cg transform='translate(50,50) scale(0.76) translate(-50,-50)' fill='%23F8FAFC'%3E%3Cpath d='M45 6 C47.5 38, 54 47.5, 86 51 C54 54.5, 47.5 64, 45 96 C42.5 64, 36 54.5, 4 51 C36 47.5, 42.5 38, 45 6 Z'/%3E%3Cpath d='M76 6 C77.2 17, 79 19.5, 90 21 C79 22.5, 77.2 25, 76 36 C74.8 25, 73 22.5, 62 21 C73 19.5, 74.8 17, 76 6 Z'/%3E%3Cpath d='M14 22 C14.8 29.5, 16 31.5, 23.5 32.5 C16 33.5, 14.8 35.5, 14 43 C13.2 35.5, 12 33.5, 4.5 32.5 C12 31.5, 13.2 29.5, 14 22 Z'/%3E%3Cpath d='M86 56 C86.8 63.5, 88 65.5, 95.5 66.5 C88 67.5, 86.8 69.5, 86 77 C85.2 69.5, 84 67.5, 76.5 66.5 C84 65.5, 85.2 63.5, 86 56 Z'/%3E%3C/g%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
