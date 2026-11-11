@@ -1,4 +1,4 @@
-const CACHE_NAME = 'holychords-offline-v1';
+const CACHE_NAME = 'holychords-offline-v2';
 const OFFLINE_FILES = [
   './',
   './index.html',
